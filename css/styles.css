@@ -1,0 +1,45 @@
+body {
+  background-color: #e0fbfc;
+  font-family: "Monserrat", sans-serif;
+}
+
+.navbar.navbar-expand-lg {
+  background-color: #3d5a80;
+  margin-bottom: 30px;
+}
+
+.navbar-brand {
+  color: #ee6c4d;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  color: #ee6c4d;
+  font-weight: bold;
+}
+
+.middle-container {
+  padding: 30px 30px;
+}
+
+h1 {
+  color: #3d5a80;
+  font-family: "Ubuntu" sans-serif;
+  font-weight: bold;
+}
+
+.row {
+  padding: 30px 0;
+}
+
+.bottom-container {
+  color: #ffffff;
+  background-color: #3d5a80;
+  padding: 10px 0;
+  text-align: center;
+}
