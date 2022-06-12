@@ -1,0 +1,84 @@
+body {
+  background-color: #e0fbfc;
+  font-family: "Monserrat", sans-serif;
+}
+
+.navbar.navbar-expand-lg {
+  background-color: #3d5a80;
+  margin-bottom: 30px;
+}
+
+.navbar-brand {
+  color: #ee6c4d;
+  font-weight: bold;
+  padding: 0 10px;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  color: #ee6c4d;
+  font-weight: bold;
+}
+
+.contact-info {
+  margin: 0 20px;
+  padding: 30px 0 0 0;
+}
+
+.contact-us {
+  color: #3d5a80;
+  font-family: "Ubuntu" sans-serif;
+  font-weight: bold;
+  font-family: "Monserrat", sans-serif;
+  font-size: 40px;
+  padding: 20px 0;
+}
+
+.contact-form {
+  border-radius: 5px;
+  padding: 30px 20px;
+  width: 70%;
+}
+
+label {
+  color: #3d5a80;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 30px 0 5px 0;
+}
+
+input[type="text"],
+select,
+textarea {
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+  resize: vertical;
+  width: 100%;
+}
+
+button {
+  background-color: #04aa6d;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  margin: 20px 0 0 0;
+  padding: 10px 15px;
+}
+
+button:hover {
+  background-color: #45a049;
+  margin: 20px 0 0 0;
+}
+
+.bottom-container {
+  color: #ffffff;
+  background-color: #3d5a80;
+  padding: 10px 0;
+  text-align: center;
+}
